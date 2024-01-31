@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Станислав Ульянов](https://up.htmlacademy.ru/htmlcss/39/user/2459977).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Варнавский](https://htmlacademy.ru/profile/anton_varnauski).
 
 ---
 
