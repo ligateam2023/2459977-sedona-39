@@ -2,7 +2,7 @@
 
 * Студент: [Станислав Ульянов](https://up.htmlacademy.ru/htmlcss/39/user/2459977).
 * Наставник: [Антон Варнавский](https://htmlacademy.ru/profile/anton_varnauski).
-
+* Сайт: [Мой проект Седона](https://ligateam2023.github.io/2459977-sedona-39/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
